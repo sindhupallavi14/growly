@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/sindhupallavi14/growly-client
+[submodule "server"]
+	path = server
+	url = https://github.com/sindhupallavi14/growly-server
